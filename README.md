@@ -39,7 +39,7 @@ To be eligible for a reward under this Program, you must:
 
 ## Disclosure
 
-Any vulnerability or bug discovered must be reported to the Team via _____________. The disclosure must be made within 24 hours following the discovery of the vulnerability and, as noted above, not have been exploited in any way prior to disclosure or publicized or disclosed to any third party (other than the Team) prior to not only submission of the report, but also fixing of the bug / vulnerability.
+Any vulnerability or bug discovered must be reported to the Team via security@aave.com. The disclosure must be made within 24 hours following the discovery of the vulnerability and, as noted above, not have been exploited in any way prior to disclosure or publicized or disclosed to any third party (other than the Team) prior to not only submission of the report, but also fixing of the bug / vulnerability.
 
 It is mandatory to read and follow the responsible disclosure policy available in the references. Submissions not following the disclosure policy will not be eligible for a reward.
 
